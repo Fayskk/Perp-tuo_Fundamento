@@ -1,7 +1,7 @@
 @echo off
 cls
 :start
-..\1410\TerrariaServer.exe -config serverconfig.txt
+..\1411\TerrariaServer.exe -config serverconfig.txt
 @echo.
 @echo Restarting server...
 @echo.
